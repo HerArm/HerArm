@@ -2,7 +2,7 @@
 
 Meu nome é Hermann
 
-- Estou estudando no Alura;
+- Estou estudando no [Alura](https://cursos.alura.com.br/dashboard)
 - Estou desenvolvendo minhas habilidades na linguagem JavaScript;
 - Ultilizo este espaço para minha organização e compartilhamento dos meus porjetos desenvolvidos.
 
